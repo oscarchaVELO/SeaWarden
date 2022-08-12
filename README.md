@@ -6,4 +6,3 @@ If you wish to use this make sure you have your AWS credintails already inputed 
 your local machine.
 
 
-Code files are private beacuse company secrets. Reach out if you need them.

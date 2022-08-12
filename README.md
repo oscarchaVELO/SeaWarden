@@ -6,3 +6,4 @@ If you wish to use this make sure you have your AWS credintails already inputed 
 your local machine.
 
 
+Files have been priavted due to company secerets. Reach out if you have questions.
